@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**# 💫 About Me:
 ## About Me 🚀<br><br>🔭 I’m currently working on  <br>Cybersecurity projects, security analysis, and AI-powered applications<br><br>👯 I’m looking to collaborate on  <br>Cybersecurity tools, ethical hacking projects, and innovative tech solutions<br><br>🤝 I’m looking for help with  <br>Advanced security concepts, real-world attack simulations, and cloud security<br><br>🌱 I’m currently learning  <br>Cyber Security, Network Security, Cloud Security, and Secure System Design<br><br>💬 Ask me about  <br>Cybersecurity fundamentals, Python scripting, vulnerability concepts, web security, and problem-solving in tech<br><br>⚡ Fun fact  <br>I enjoy breaking things (ethically 😉) to understand how to build them stronger
 
 
